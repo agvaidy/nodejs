@@ -9,7 +9,7 @@
             "watch": true,
             "cleanUp": true,
             "portForward": true,
-            "imageRegistry": "gcr.io/bookshelf-214900"
+            "imageRegistry": "gcr.io/learning-218601"
         },
         {
             "name": "Debug on Kubernetes",

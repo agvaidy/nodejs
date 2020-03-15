@@ -1,0 +1,8 @@
+{
+    "cloudcode.last-used-context": {
+        "Run on Kubernetes": {
+            "kubeConfigPath": "/Users/vnathang/.kube/config",
+            "contextName": "gke_learning-218601_us-central1-a_test"
+        }
+    }
+}

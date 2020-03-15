@@ -1,8 +1,0 @@
-{
-    "cloudcode.last-used-context": {
-        "Run on Kubernetes": {
-            "kubeConfigPath": "/Users/macadmin/.kube/config",
-            "contextName": "gke_bookshelf-214900_us-east1-b_test"
-        }
-    }
-}
