@@ -5,7 +5,7 @@ const app = express();
 // returns a simple response 
 app.get('/', (req, res) => {
   console.log(`received request: ${req.method} ${req.url}`)
-  res.status(200).send('Hello, world!')
+  res.status(200).send('Hello Nat, world!')
 });
 
 // starts an http server on the $PORT environment variable
