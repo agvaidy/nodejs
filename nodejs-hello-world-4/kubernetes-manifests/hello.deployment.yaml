@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: nodejs-hello-world
+          image: gcr.io/bookshelf-214900/github.com/agvaidy/nodejs
           ports:
           - containerPort: 8080
           env:
