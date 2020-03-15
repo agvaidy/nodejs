@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}`);
-  console.log('Press Ctrl+C to quit.');
+  console.log('Press some Ctrl+C to quit.');
 });
 
 module.exports = app
